@@ -1,0 +1,20 @@
+    
+{
+	"type":"repository",
+	"version":"master",
+	"category":"Sales Cloud",
+	"name":"Reduce time to Win an Opportunity",
+	"image":"https://drive.google.com/uc?id=1GEMHh-QlQ6YUZoKw831oxQAuz81G9uXo",
+	"description":"Get the Following Boosters: Increase the Number of opportunity, Increase the opportunities won, Your sales will grow rapidly",
+	"featured":"No",
+	"price":"2500",
+	"repo_name":"Incentivize-Quote-Creation-Accelerators",
+	
+	"dependencies":[
+		{
+			"type":"linkRepository",
+			"version":"master",
+			"name":"FieloIncentiveAutomation/fielodeploy"
+		}
+	]
+}
